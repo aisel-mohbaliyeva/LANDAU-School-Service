@@ -1,4 +1,5 @@
-# LANDAU School – Servis PWA | landau-school-service.vercel.app|
+# LANDAU School – Servis PWA 
+|landau-school-service.vercel.app|
 
 ## Haqqında 
 **PWA (Progressive Web App)** — telefona yükləmək olur, offline işləyir.
