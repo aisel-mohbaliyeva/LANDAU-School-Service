@@ -1,5 +1,7 @@
 # LANDAU School – Servis PWA 
-|landau-school-service.vercel.app|
+
+## 🚀 Live Demo
+## [View Live Project]() 🔗 
 
 ## Haqqında 
 **PWA (Progressive Web App)** — telefona yükləmək olur, offline işləyir.
