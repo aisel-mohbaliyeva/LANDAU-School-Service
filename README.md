@@ -1,33 +1,17 @@
-# LANDAU School – Servis PWA
-Smart Bus 
+# 🚌 LANDAU School – Service PWA
 
-## 🚀 Live Demo
-[View Live Project](https://landau-school-service.vercel.app) 🔗
+**Live Demo:** [https://landau-school-service.vercel.app](https://landau-school-service.vercel.app)
 
-## Haqqında
-Bu layihə **hələ davam edir** və tam hazır deyil.  
-**PWA (Progressive Web App)** olaraq hazırlanır — telefona yükləmək olur və offline işləyir.
+Smart Bus project is a **Progressive Web App (PWA)**.  
+It can be installed on your phone and works offline. The project is still in progress.
 
-## Fayl Strukturu
+## 📂 File Structure
 
-landau-pwa/
-├── index.html ← Valideyn App (bütün səhifələr)
+## 📱 Install on Phone
+- **Android:** Chrome → "Add to Home screen"  
+- **iPhone:** Safari → Share → "Add to Home screen"
 
-
-## Telefona Yükləmə
-**Android:** Chrome → "Ana ekrana əlavə et"  
-**iPhone:** Safari → Paylaş → "Ana ekrana əlavə et"
-
-## Brend Rəngləri
-- **Primary:** #2d1b69 (LANDAU tünd bənövşəyi)  
-- **Gold:** #f5c518 (qızılı)  
-- **Background:** #f5f3fc (açıq bənövşəyi)
-
-## Gələcək Planlar
-- Layihəni tam hazır etmək  
-- Daha çox PWA xüsusiyyətləri əlavə etmək  
-- UI/UX-i təkmilləşdirmək
-
----
-
-*LANDAU School Servis © 2026*
+## 🔜 Future Plans
+- Complete the project  
+- Add more PWA features  
+- Improve UI/UX
